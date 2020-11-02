@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Weight Watchers Test Automation Test Suite">
+
+	<test name="Weight Watchers Test cases">
+		<classes>
+			<class name="com.ww.testcases.WeightWatchersTest"></class>
+		</classes>
+	</test>
+</suite>
